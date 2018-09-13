@@ -1,3 +1,3 @@
 # david-halpern-resume
 
-Open the file david-halpern-resume.pdf to view my resume
+Open the file David-Halpern-Resume.pdf to view my resume
